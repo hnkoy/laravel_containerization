@@ -1,6 +1,6 @@
 # laravel_static_web_site_deploy
 This repos is a simple way to deploy laravel static website using docker container with a fresh laravel app
-#Steps
+# Steps
 create a Dockerfile and the dockerfile will :
 - install apache2 and php
 - install git,curl,zip,unzip
